@@ -1,0 +1,36 @@
+{
+  "cesVersion": "2.18.3",
+  "projectName": "movie-app-tamagui-tanstack",
+  "packages": [
+    {
+      "name": "expo-router",
+      "type": "navigation",
+      "options": {
+        "type": "stack"
+      }
+    },
+    {
+      "name": "tamagui",
+      "type": "styling"
+    }
+  ],
+  "flags": {
+    "noGit": false,
+    "noInstall": false,
+    "overwrite": false,
+    "importAlias": true,
+    "packageManager": "npm",
+    "eas": true,
+    "publish": false
+  },
+  "packageManager": {
+    "type": "npm",
+    "version": "10.9.2"
+  },
+  "os": {
+    "type": "Darwin",
+    "platform": "darwin",
+    "arch": "arm64",
+    "kernelVersion": "24.5.0"
+  }
+}
